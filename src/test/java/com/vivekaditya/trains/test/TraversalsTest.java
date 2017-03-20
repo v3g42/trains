@@ -2,7 +2,9 @@ package com.vivekaditya.trains.test;
 
 import static org.junit.Assert.*;
 
-import org.hamcrest.CoreMatchers;
+import com.vivekaditya.trains.Graph;
+import com.vivekaditya.trains.Traversals;
+import com.vivekaditya.trains.WeightedDirectedGraph;
 import org.junit.Test;
 import org.junit.Before;
 

@@ -2,12 +2,13 @@ package com.vivekaditya.trains.test;
 
 import static org.junit.Assert.*;
 
+import com.vivekaditya.trains.Edge;
+import com.vivekaditya.trains.Graph;
+import com.vivekaditya.trains.WeightedDirectedGraph;
 import org.hamcrest.CoreMatchers;
 import org.junit.Test;
 
 import java.util.LinkedList;
-import java.util.List;
-import java.util.stream.Collectors;
 
 /**
  * Created by vivek on 20/3/17.

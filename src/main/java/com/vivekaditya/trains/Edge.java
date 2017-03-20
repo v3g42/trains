@@ -1,4 +1,4 @@
-package com.vivekaditya.trains.test;
+package com.vivekaditya.trains;
 
 /**
  * Created by vivek on 20/3/17.

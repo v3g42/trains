@@ -1,4 +1,4 @@
-package com.vivekaditya.trains.test;
+package com.vivekaditya.trains;
 
 import java.io.*;
 import java.util.Arrays;

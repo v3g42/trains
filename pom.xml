@@ -34,7 +34,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>com.vivekaditya.trains.test.Trains</mainClass>
+                    <mainClass>com.vivekaditya.trains.Trains</mainClass>
                 </configuration>
             </plugin>
             <plugin>
